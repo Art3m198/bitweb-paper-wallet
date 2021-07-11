@@ -1,4 +1,4 @@
-# Bitweb-paper-wallet
+# Bitweb (BTE) paper wallet
 Bitweb paper wallet generator
 
 
