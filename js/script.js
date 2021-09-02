@@ -19,7 +19,7 @@ function getConfig() {
 				},
 				'bech32': 'web',
 				'pubKeyHash': 0x21,
-				'scriptHash': 0x7a,
+				'scriptHash': 0x1E,
 				'wif': 0x80
 			}
 		}
